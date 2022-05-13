@@ -23,8 +23,7 @@
 
 那其實變數就跟現實中的箱子一樣，有自己的標籤(變數名稱)，且可以放入任何東西(變數值)
 
-<iframe width=500 height=500 src="https://media.giphy.com/media/AANHiSJLrF8ga3WdXl/giphy.gif">
-
+![Alt Text](https://media.giphy.com/media/AANHiSJLrF8ga3WdXl/giphy.gif)
 &nbsp;
 
 ## 接下來我們來看實際的變數是如何
