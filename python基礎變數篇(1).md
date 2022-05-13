@@ -30,8 +30,8 @@
 ```
 box1 = "apple"
 box2 = "banana"
-print(a)
-print(b)
+print(box1)
+print(box2)
 ```
 
 這邊我們宣告了box1, box2兩個變數
