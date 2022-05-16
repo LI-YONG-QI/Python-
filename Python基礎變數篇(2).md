@@ -81,13 +81,12 @@ print(number1 + number2)
 
 ### 程式碼如何正確運用布林值
 
-我今天宣告一個變數，取名叫isStudy，用來記錄今天是否學習過了，一開始還沒開始學習的時候變數設為False，若學習過了就將isStudy設為True
+我今天宣告一個變數，取名叫isLock，用來記錄有沒有鎖住，如果沒有鎖住就是False，如果有鎖著的話就是True
 
 ``` py
-isStudy = False
-#開始學習
-#學習完了
-isStudy = True
+isLock = False
+#上鎖
+isLock = True
 ```
 
 ---
