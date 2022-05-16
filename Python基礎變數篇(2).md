@@ -74,7 +74,7 @@ print(number1 + number2)
 
 此為程式相當常見的資料型態，通常用來表示某種狀態
 
-值只有<font color=green>True</font>跟<font color=red>False</font>兩種
+值只有<font color="#FF0000">True</font>跟<font color="#00BB00">False</font>兩種
 > ⚠注意  在Python中True跟False開頭必須為**大寫**
 
 &nbsp;
