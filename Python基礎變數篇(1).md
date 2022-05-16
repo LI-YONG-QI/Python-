@@ -68,5 +68,6 @@ Q3: 請回答以下輸出結果為何？
 a = 5
 print(a)
 ```
+<span style="color:orange;">Word up</span>
 
 #### 下篇預告：Python基礎變數篇(2)-變數內可以放入哪些資料型態？
