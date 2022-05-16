@@ -28,7 +28,7 @@
 
 ## 接下來我們來看實際的變數是如何
 
-```
+```py
 box1 = "apple"
 box2 = "banana"
 print(box1)
