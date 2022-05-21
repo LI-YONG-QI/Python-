@@ -83,7 +83,7 @@ print(number1 + number2)
 
 我今天宣告一個變數，取名叫isLock，用來記錄有沒有鎖住，如果沒有鎖住就是False，如果有鎖著的話就是True
 
-![Alt Text](![Alt Text](https://media.giphy.com/media/9U1cIVaXtz5edfYI2F/giphy.gif))
+![Alt Text](![Alt Text](https://media.giphy.com/media/9U1cIVaXtz5edfYI2F/giphy.gif)
 
 ``` py
 isLock = False
